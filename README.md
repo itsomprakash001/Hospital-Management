@@ -1,1 +1,1 @@
-# Hospital-Management-System-Fullstack
+# Hospital-Management
